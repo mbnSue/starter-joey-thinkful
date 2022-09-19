@@ -1,0 +1,45 @@
+@media all and (min-width: 600px){
+    header h1{
+
+        font-size: 48px;
+        text-align: left;
+    }
+    header{
+        display: flex;
+        background-color: #0B1C51;
+        font: Montserrat;
+        justify-content: space-between;
+        padding: 0 30px;
+    }
+    header nav ul{
+        display: flex;
+        list-style: none;
+        padding-left: 0;
+    }
+    ​
+    header nav ul li a {
+        color: #fff;
+        text-decoration: none;
+        margin: 0 30px 0 0;
+    }       
+    
+}
+
+header h1{
+    font-size: 52px;
+    color: white;
+    text-align: center;
+}
+header{
+    background-color: #0B1C51;
+    font: Montserrat;
+}
+header nav ul{
+   padding-left: 20px;
+    list-style: none;
+}
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 30px 0 0;
+}       
